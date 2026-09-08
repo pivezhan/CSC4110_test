@@ -4,6 +4,13 @@
   
 using namespace std; 
 
+
+
+int sub(){
+return 2;
+}
+
+  
 int add()
 {
 return 0;
