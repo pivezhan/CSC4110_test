@@ -3,6 +3,11 @@
 #include<iostream>  
   
 using namespace std; 
+
+int sub(){
+return 2;
+}
+
   
 // main function - 
 // where the execution of program begins 
