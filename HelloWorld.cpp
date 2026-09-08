@@ -4,7 +4,10 @@
   
 using namespace std; 
 
-
+int mult()
+{
+return 1;
+}
 
 int sub(){
 return 2;
