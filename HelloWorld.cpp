@@ -13,6 +13,10 @@ int sub(){
 return 2;
 }
 
+int sub2()
+{
+return 4;
+}
   
 int add()
 {
