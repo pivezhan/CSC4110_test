@@ -3,13 +3,17 @@
 #include<iostream>  
   
 using namespace std; 
-  
-// main function - 
-// where the execution of program begins 
-void add()
+
+int add()
 {
 return 0;
-}
+}  
+// main function - 
+// where the execution of program begins 
+
+
+
+
 int main() 
 { 
     // prints hello world 
