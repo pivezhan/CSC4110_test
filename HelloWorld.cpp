@@ -6,6 +6,10 @@ using namespace std;
   
 // main function - 
 // where the execution of program begins 
+void add()
+{
+return 0;
+}
 int main() 
 { 
     // prints hello world 
