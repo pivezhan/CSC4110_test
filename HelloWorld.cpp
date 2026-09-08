@@ -9,6 +9,11 @@ int mult1()
 return 1;
 }
 
+int mult2()
+{
+return 3;
+}
+
 int sub(){
 return 2;
 }
