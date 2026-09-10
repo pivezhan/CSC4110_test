@@ -4,6 +4,10 @@
   
 using namespace std; 
 
+int test7()
+{
+return 7;
+}
 int test55()
 {
     return 55;
