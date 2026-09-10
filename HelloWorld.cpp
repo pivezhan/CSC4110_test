@@ -4,6 +4,11 @@
   
 using namespace std; 
 
+int mult7()
+{
+return 7+1;
+}
+
 int mult1()
 {
 return 1;
