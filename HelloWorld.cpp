@@ -8,7 +8,7 @@ int multx()
 return 4;
 }
 
-int mult1()
+int mult0()
 {
 return 1;
 }
