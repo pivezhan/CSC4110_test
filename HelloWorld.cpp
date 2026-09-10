@@ -4,15 +4,6 @@
   
 using namespace std; 
 
-int test1()
-{
-    return 1;
-}
-
-int test3()
-{
-return 3;
-}
 
 int test1()
 {
@@ -43,6 +34,11 @@ return 0;
 int main() 
 { 
     // prints hello world 
+<<<<<<< HEAD
     cout<<"Hello World!"; 
+=======
+    cout<<"Hello World from main!"; 
+     
+>>>>>>> fd25cd0d6121d001bc19d05cbd4b821aea69b855
     return 0; 
 } 
