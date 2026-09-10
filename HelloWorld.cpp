@@ -5,7 +5,12 @@
 using namespace std; 
 int multx()
 {
-return 2;
+return 21;
+}
+
+int multx()
+{
+return 44;
 }
 
 int mult0()
