@@ -45,7 +45,7 @@ return 0;
 int main() 
 { 
     // prints hello world 
-    cout<<"Hello World!"; 
+    cout<<"Hello World from main!"; 
       
     return 0; 
 } 
