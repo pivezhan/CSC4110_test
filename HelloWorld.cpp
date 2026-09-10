@@ -3,6 +3,10 @@
 #include<iostream>  
   
 using namespace std; 
+int mult3()
+{
+return 5;
+}
 
 int mult1()
 {
