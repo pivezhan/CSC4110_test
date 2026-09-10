@@ -4,7 +4,7 @@
   
 using namespace std; 
 
-int mult1()
+int mult0()
 {
 return 1;
 }
