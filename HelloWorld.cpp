@@ -6,7 +6,7 @@ using namespace std;
 
 int multx()
 {
-return 44;
+return 4;
 }
 
 int mult0()
