@@ -3,44 +3,46 @@
 #include<iostream>  
   
 using namespace std; 
-int mult3()
+
+int test1()
 {
-return 5;
+    return 1;
 }
 
-int mult1()
-{
-return 1;
-}
-
-int mult2()
+int test3()
 {
 return 3;
 }
 
-int sub(){
-return 2;
+int test1()
+{
+return 1;
 }
 
-int sub2()
+int test4()
 {
 return 4;
 }
+
+int test22(){
+return 22;
+}
+
+int test5()
+{
+return 5;
+}
   
-int add()
+int test0()
 {
 return 0;
 }  
+
 // main function - 
-// where the execution of program begins 
-
-
-
-
+// where the execution of program begins
 int main() 
 { 
     // prints hello world 
     cout<<"Hello World!"; 
-      
     return 0; 
 } 
