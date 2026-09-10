@@ -4,6 +4,7 @@
   
 using namespace std; 
 
+
 int test7()
 {
 return 7;
@@ -12,10 +13,7 @@ int test55()
 {
     return 55;
 }
-int test1()
-{
-return 1;
-}
+
 
 int test4()
 {
