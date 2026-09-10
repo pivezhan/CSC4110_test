@@ -4,6 +4,11 @@
   
 using namespace std; 
 
+int multx()
+{
+return 44;
+}
+
 int mult0()
 {
 return 1;
