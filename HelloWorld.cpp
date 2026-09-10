@@ -5,9 +5,9 @@
 using namespace std; 
 
 
-int test7()
+int test77()
 {
-return 7;
+return 77;
 }
 int test55()
 {
